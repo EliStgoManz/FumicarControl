@@ -220,11 +220,18 @@
                     </div>
                    
                    
-                      <a class="btn btn-primary btn-xl text-uppercase" href="#contact">contactanos para mayor inf.</a>
+                      <a class="btn btn-primary btn-xl text-uppercase" href="#contact" onclick="saludoContacto()">contactanos para mayor inf.</a>
                     </div>
                 </div>
             </div>
         </section>
+
+
+        <script type="text/javascript">
+            function saludoContacto(){
+                alert("¡queridos amigos y clientes los invitamos a contactarnos");
+        };
+        </script>
         
         
         <!------Licencias--->
