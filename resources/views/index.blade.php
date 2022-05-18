@@ -247,7 +247,7 @@
                         <div class="team-member">
 
                         
-                            <img class="rounded-circle img-fluid" src="{{url('/assets/img/team/REPSEONE.jpg')}}" alt="..." / width="40" height="50">
+                            <img class="rounded-circle img-fluid" src="{{url('/assets/img/team/repseDefinitivo.png')}}" alt="..." / width="40" height="50">
                             <h4> "Registro de prestadores de Servicios Especialidos y obras Especializadas"</h4>
                             <p class="text-muted">Licencia Repse
                             <br><br>
@@ -327,16 +327,109 @@ Un Sistema Nacional de Salud Universal, equitativo, integral, sustentable, efect
 
              
         </section>
+
+
+
+
+         <!-- plagas a las que se extermina-->
+         <section class="page-section" id="services">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">¡Nuestro servicio de Fumigación!</h2>
+                    <h3 class="section-subheading text-muted">¡Ninguna plaga es tan fuerte para nosotros combatir! </h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-crosshairs fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Servicios Fumigación</h4>
+                        <p class="text-muted">
+                            <ul>
+                            <li>Insectos</li>
+                            <li>Termitas</li>
+                            <li>Roedores</li>
+                            <li>Plaga en áreas verdes</li>
+                            
+                            </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-home fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Mantenimiento de áreas verdes</h4>
+                        <p class="text-muted">
+                                 <ul>
+                                <li>Instalación de pasto</li>
+                                <li>Instalación de plantas y arboles</li>
+                                <li>Arrope</li>
+                                <li>Desmonte/chapoleo</li>
+                                <li>Instalación de sistema de riego</li>
+                                <li>Diseño de Jardines</li>
+                                <li>Deshierbe</li>
+                                </ul>
+
+                        </p>
+                    </div>
+                    
+                  
+                    
+                    
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-air-freshener fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Sanitización</h4>
+                        <p class="text-muted">
+                            <ul>
+                           <li>Prevención contra virus y antígenos (incluido Covid 19)</li>
+                           <li>Suministro de desinfectantes para uso cotidiano</li>
+                                
+                            </ul>
+                           
+                       
+
+                </div>
+                
+                    
+                            <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                             <i class="fas fa-caravan fa-stack-1x fa-inverse"></i>
+                           
+
+                        </span>
+                        <h4 class="my-3">Barredora</h4>
+                        <p class="text-muted">
+                            <ul>
+                           <li>Limpieza de Vialidades</li>
+                           <li>Limpieza de naves</li>
+                                
+                            </ul>
+            </div>
+        </section>
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+
         
         
         
         
-        
-        
-        
-        
-        
-        <!-- Portfolio Grid-->
+<!-- Portfolio Grid-->
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
@@ -353,7 +446,7 @@ Un Sistema Nacional de Salud Universal, equitativo, integral, sustentable, efect
                                 </div>
 
                                 
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/fumigation6.jpeg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/servicioFumigacion.png')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Servicios Fumigación</div>
@@ -370,7 +463,7 @@ Un Sistema Nacional de Salud Universal, equitativo, integral, sustentable, efect
                                 </div>
 
                                 
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardineríaaa4.jpeg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/servicioJardineria.png')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Servicios de Jardinería</div>
@@ -385,7 +478,7 @@ Un Sistema Nacional de Salud Universal, equitativo, integral, sustentable, efect
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/barredorDefinitive.png')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/servicioBarredora.png')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Servicio de Barredora de Camino</div>
@@ -458,7 +551,7 @@ Poco a poco, recomendación tras recomendación, fuimos llegando a la puerta de 
                     
                     <li>
                     
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/portfolio/jardinero1.jpeg')}}" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/portfolio/amigoJardinero.png')}}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2001-2022</h4>
@@ -470,7 +563,7 @@ Poco a poco, recomendación tras recomendación, fuimos llegando a la puerta de 
                     
                     
                            <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/portfolio/jardinero3.jpeg')}}" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/portfolio/serviceJardineríaFumigacion.png')}}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>March 2011</h4>

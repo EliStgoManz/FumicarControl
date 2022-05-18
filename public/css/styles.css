@@ -111,6 +111,8 @@ body {
 }
 
 
+
+
 @media only screen and (min-width:320px) and (max-width:768px){
   .btn-wsp{
       width:63px;
@@ -11420,6 +11422,58 @@ a.btnllamar{
 }
 
 
+.carrousel{
+width:90%;
+max-width:120em;
+padding:2em;
+}
+
+.carrousel .grande{
+  width:200%;
+  background-color: orange;
+
+  display:flex;
+  flex-flow:row nowrap;
+  justify-content:flex-start;
+  align-items:center;
+
+}
+
+.carrousel .img{
+  width:calc(100% /2);
+  background-color:lime;
+
+}
+
+
+
+.carrousel .puntos{
+  width:100%;
+  background-color:red;
+  padding:1em;
+
+  display:flex;
+  flex-flow:row nowrap;
+  justify-content:center;
+  align-items:center;
+
+
+}
+
+.carrousel .punto{
+width:2em;
+height:2em;
+background-color: blue;
+
+
+}
+
+
+
+
+
+
+
 /*#mapid{
   width: 600px; 
   height: 400px;
@@ -11636,6 +11690,11 @@ header.masthead .masthead-heading {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
+
+.carousel-inner> .item> img {
+  width: 640px; 
+  height: 360px; 
+ }
 
 
 
